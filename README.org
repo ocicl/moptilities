@@ -1,0 +1,9 @@
+* moptilities
+
+compatibility layer for minor MOP implementation differences
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/gwkkwg/moptilities.git |
+| commit  | a436f16                                       |
+| systems | moptilities                                   |
+|---------+-----------------------------------------------|
